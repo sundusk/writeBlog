@@ -1,0 +1,3 @@
+([('create_md_gui_with_path',
+   '/Users/mac/Desktop/writeBlog/dist/create_md_gui_with_path',
+   'EXECUTABLE')],)
